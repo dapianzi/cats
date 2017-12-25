@@ -109,8 +109,8 @@ MEDIA_ALLOW_REDIRECTS = True
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # MYSQL CONFIG
-MYSQL_HOST = '47.89.251.85'
-MYSQL_PORT = 3307
-MYSQL_USER = 'carl'
-MYSQL_PASS = '1qaz2wsx.carl'
+MYSQL_HOST = '0.0.0.0'
+MYSQL_PORT = 3306
+MYSQL_USER = 'xxxx'
+MYSQL_PASS = '********'
 MYSQL_NAME = 'cats'
