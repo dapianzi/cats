@@ -1,6 +1,5 @@
 # cats
 
-[license]
 抓猫
 
 + 一个 Scrapy 的练手项目.
